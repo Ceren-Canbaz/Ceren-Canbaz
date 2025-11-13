@@ -1,12 +1,3 @@
-
-<p>
-    I'm a software developer with 2 years of experience specializing in Flutter for mobile app development. I also have experience working with iOS native development, as well as web backend and database technologies. I'm passionate about creating efficient and user-friendly applications.
-  </p>
-
-
-
-## Technologies and Tools
-
 ### Languages
 <p align="center">
   <a href="https://dart.dev/" target="_blank">
